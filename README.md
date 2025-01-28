@@ -26,5 +26,6 @@ Run the Script:
         The script will read the documents, compute the match percentage, and extract skills from the job description.
 
 Outputs:
+
         Match Percentage: The similarity score between your resume and the job description.
         Extracted Skills: A list of key skills identified from the job description.
